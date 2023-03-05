@@ -1,0 +1,22 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "stefano",
+      "email": "stefano@ciao.it",
+      "phone": "82830213"
+    },
+    {
+      "id": 3,
+      "name": "roberto",
+      "email": "ciao2",
+      "phone": "280380"
+    },
+    {
+      "id": 4,
+      "name": "stefano",
+      "email": "stefano@ciao.it",
+      "phone": "nuovo numero"
+    }
+  ]
+}

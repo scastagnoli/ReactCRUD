@@ -1,0 +1,37 @@
+installare nvm
+riavviare
+npx create-react-app nomeApp
+npm install react-router-dom	
+https://www.youtube.com/watch?v=i3J8gyARN-Y
+
+es1
+plugin per browser:
+	React Developer Tools
+cd nomeApp
+npm start
+npm run build (per creare applicazione per produzione)
+
+prettier (MAIUS+ALT+f per indentare automaticamente)
+auto rename tag
+es7+react/redux...
+	CTRL+ALT+r
+		visualizzo barra comando con elenco shortcut estensione
+		shortcut rfc per creare componenti
+
+
+
+server-api
+	npm init --yes
+	npm i json-server
+	db.json:
+		{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
+	json-server --watch db.json
+	(https://www.npmjs.com/package/json-server)

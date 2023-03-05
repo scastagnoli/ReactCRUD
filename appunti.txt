@@ -1,13 +1,16 @@
 installare nvm
 riavviare
-npx create-react-app nomeApp
-npm install react-router-dom	
 https://www.youtube.com/watch?v=i3J8gyARN-Y
 
-es1
+npx create-react-app nomeApp
+
 plugin per browser:
 	React Developer Tools
 cd nomeApp
+npm install react-router-dom	
+npm install bootstrap
+npm install json-server 
+
 npm start
 npm run build (per creare applicazione per produzione)
 

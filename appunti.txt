@@ -36,5 +36,6 @@ server-api
   ],
   "profile": { "name": "typicode" }
 }
-	json-server --watch db.json
-	(https://www.npmjs.com/package/json-server)
+
+json-server --watch db.json
+(https://www.npmjs.com/package/json-server)
